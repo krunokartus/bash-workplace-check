@@ -2,3 +2,8 @@
 .DS_Store
 tmp/
 *.tmp
+.env
+*.secret
+# Runtime output (if scripts are executed locally)
+output/
+reports/

@@ -1,7 +1,7 @@
 # Bash Workplace Check
 A collection of Bash scripts for automated Linux workstation and server health monitoring.
 
-## 📁 Project Structure
+## Project structure
 
 - **desktop/**: Scripts for monitoring user desktop clutter and space.
 - **system/**: Core system health (Disk, Memory, Uptime).
@@ -10,7 +10,7 @@ A collection of Bash scripts for automated Linux workstation and server health m
 - **server/**: Security and service status checks.
 - **lib/**: Shared functions and utilities.
 
-## 🚀 How to use
+## How to use
 Each script can be run independently. Ensure they have execution permissions.
 ```bash
 chmod +x **/*.sh
